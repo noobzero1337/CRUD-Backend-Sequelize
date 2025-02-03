@@ -1,3 +1,5 @@
+.gitignore
 /src/.env
 src/config/
+src/request.rest
 node_modules/
